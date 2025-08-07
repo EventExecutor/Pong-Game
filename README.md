@@ -2,7 +2,7 @@
 
 Un classico gioco Pong implementato in Python con Pygame, caratterizzato da un'intelligenza artificiale fluida e avanzata senza tremolii.
 
-![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
